@@ -1,0 +1,140 @@
+[
+  {
+    "Reference": "EXTRA-0",
+    "Biasing": "3",
+    "Status": "available",
+    "Price": {
+      "Amount": "290",
+      "Currency": "NOK"
+    },
+    "Dates": [
+      {
+        "Date": "2020-08-04",
+        "Status": "available",
+        "Timeslots": [
+          {
+            "AvailableQuantity": "20",
+            "Time": "21:00",
+            "Status": "available",
+            "TotalCapacity": "100"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Reference": "EXTRA-1",
+    "Biasing": "0",
+    "Status": "available",
+    "Price": {
+      "Amount": "340",
+      "Currency": "NOK"
+    },
+    "Dates": [
+      {
+        "Date": "2020-08-04",
+        "Status": "available",
+        "Timeslots": [
+          {
+            "AvailableQuantity": "10",
+            "Time": "12:00",
+            "Status": "available",
+            "TotalCapacity": "20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Reference": "EXTRA-2",
+    "Biasing": "2",
+    "Status": "available",
+    "Price": {
+      "Amount": "490",
+      "Currency": "NOK"
+    },
+    "Dates": [
+      {
+        "Date": "2020-08-04",
+        "Status": "available",
+        "Timeslots": [
+          {
+            "AvailableQuantity": "3",
+            "Time": "18:00",
+            "Status": "available",
+            "TotalCapacity": "10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Reference": "EXTRA-3",
+    "Biasing": "4",
+    "Status": "available",
+    "Price": {
+      "Amount": "790",
+      "Currency": "NOK"
+    },
+    "Dates": [
+      {
+        "Date": "2020-08-04",
+        "Status": "available",
+        "Timeslots": [
+          {
+            "AvailableQuantity": "5",
+            "Time": "14:00",
+            "Status": "available",
+            "TotalCapacity": "25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Reference": "EXTRA-4",
+    "Biasing": "6",
+    "Status": "available",
+    "Price": {
+      "Amount": "650",
+      "Currency": "NOK"
+    },
+    "Dates": [
+      {
+        "Date": "2020-08-04",
+        "Status": "available",
+        "Timeslots": [
+          {
+            "AvailableQuantity": "3",
+            "Time": "12:00",
+            "Status": "available",
+            "TotalCapacity": "15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Reference": "EXTRA-5",
+    "Biasing": "10",
+    "Status": "unavailable",
+    "Price": {
+      "Amount": "650",
+      "Currency": "NOK"
+    },
+    "Dates": [
+      {
+        "Date": "2020-08-04",
+        "Status": "unavailable",
+        "Timeslots": [
+          {
+            "AvailableQuantity": "0",
+            "Time": "12:00",
+            "Status": "unavailable",
+            "TotalCapacity": "15"
+          }
+        ]
+      }
+    ]
+  }
+]
